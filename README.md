@@ -2,6 +2,7 @@
 
 수업시간에 배운 Frozen Lake를 구현해보았습니다.  
 팀원 둘 다 Python을 거의 다루지 못해 매우 부족하지만.. 열심히 작성해보았습니다..
+아나콘다 jupyter notebook에서 작성하였습니다.
 <br>
 <br>
 <br>
