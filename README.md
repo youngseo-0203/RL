@@ -142,6 +142,8 @@ for episode in range(3):
 env.close()
 ```
 
+![](https://github.com/youngseo-0203/RL/blob/main/%EB%AA%A9%ED%91%9C%EB%8F%84%EB%8B%AC.png)
+
 <br/>
 
 > 다음으로 볼츠만 함수 적용을 위해 strategy를 softmax로 바꾸어줍니다.
@@ -229,4 +231,4 @@ for episode in range(3):
 env.close()
 ```
 
-![](img path)
+![](https://github.com/youngseo-0203/RL/blob/main/%EB%AA%A9%ED%91%9C%EB%8F%84%EB%8B%AC.png)
