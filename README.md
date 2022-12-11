@@ -228,3 +228,5 @@ for episode in range(3):
         state = new_state
 env.close()
 ```
+
+![](img path)
